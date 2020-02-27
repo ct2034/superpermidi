@@ -22,7 +22,7 @@ wget http://www.gregegan.net/SCIENCE/Superpermutations/7_5906_nsk666646664466646
 
 Run the script
 ```
-python3 superpermidi.py 7_5906_nsk666646664466646666_2SYMM_FS.txt
+./superpermidi.py 7_5906_nsk666646664466646666_2SYMM_FS.txt
 ```
 
 You should get a midi file with the same name and can play it
